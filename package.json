@@ -1,0 +1,12 @@
+{
+  "name": "brand_new_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "start",
+    "start":"nodemon app.js"
+  },
+  "author": "milka",
+  "license": "ISC"
+}
